@@ -1,5 +1,5 @@
 # Дискретная математика :computer:
-<img align="left" width="100" height="100" alt="UTM logo" src="images/utm-logo.png">
+<img align="left" width="100" alt="UTM logo" src="images/utm-logo.png">
 В этом репозитории представлены работы по дискретной математике, выполненные мной, студенткой университета UTM, группы TI-202FR, Гамурарь Яной.
 
 ## Лабораторная работа №2
