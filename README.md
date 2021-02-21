@@ -1,2 +1,4 @@
-# Discrete-Mathematics
-Discrete Mathematics Assignments
+# Дискретная математика
+## Лабораторная работа №2
+###### Алгоритм Белмана-Калаба для поиска минимального пути
+[Ссылка на код программы поиска минимального пути с помощью алгоритма Белмана-Калаба](https://github.com/Gamurar/Discrete-Mathematics/blob/main/lab2-minimum-path-by-bellman-kalaba.c)
