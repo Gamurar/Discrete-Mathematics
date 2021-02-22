@@ -249,7 +249,7 @@ In what form do you want to enter the graph?
 4. <- Go back
 Enter your choice: 3
 Please, enter number of vertices: 4
-Fill the list, when you\'re done with a vertex, type 0.
+Fill the list, when you're done with a vertex, type 0.
 Vertex 1: 2
 Vertex 1: 2 -> 3
 Vertex 1: 2 -> 3 -> 4
@@ -384,7 +384,7 @@ Great! Matrix has been filled. Here is your adjacency matrix:
 7 |  oxo  oxo  oxo  oxo  oxo  oxo   0    2
 8 |  oxo  oxo  oxo  oxo  oxo  oxo  oxo   0
 
-Now let\'s run the Bellman-Kalaba algorithm to find a minimum path...
+Now let's run the Bellman-Kalaba algorithm to find a minimum path...
 Fill the first vector:
       1    2    3    4    5    6    7    8
   +----------------------------------------
