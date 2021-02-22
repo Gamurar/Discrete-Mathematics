@@ -14,7 +14,7 @@
 3. Quit
 Enter your choice: 2
 
-X There\'s no graph, please enter a graph first. X
+X There's no graph, please enter a graph first. X
 
 ----- MENU -----
 1. Enter a graph
@@ -354,7 +354,7 @@ Have a nice day!
 ## Лабораторная работа №2
 **Алгоритм Белмана-Калаба для поиска минимального пути**
 
-:page_facing_up:[Код программы поиска минимального пути с помощью алгоритма Белмана-Калаба](lab2-minimum-path-by-bellman-kalaba.c)
+:page_facing_up:[Код программы](lab2-minimum-path-by-bellman-kalaba.c)
 
 ###### Пример работы программы
 ```bash
